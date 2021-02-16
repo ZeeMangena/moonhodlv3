@@ -1,0 +1,16 @@
+.div {
+	display: flex;
+	border-radius: 2px;
+	border: 1px solid;
+}
+
+.button__unhide {
+	background: #006f8a;
+	border-radius: 2px;
+	width: 100px;
+	height: 50px;
+	border: 1px solid;
+	margin-top: 2px;
+	margin-right: 5px;
+	border-color: #fef8e0;
+}
